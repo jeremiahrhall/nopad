@@ -1,0 +1,19 @@
+{
+  "name": "nopad",
+  "version": "1.0.0",
+  "description": "does not pad strings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jeremiahrhall/nopad.git"
+  },
+  "author": "npm@jeremiahrhall.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeremiahrhall/nopad/issues"
+  },
+  "homepage": "https://github.com/jeremiahrhall/nopad#readme"
+}
